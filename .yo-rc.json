@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Zero to Blinky: Up and Running with Raspberry Pi and Arduino",
+    "packageVersion": "0.1.0",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
