@@ -7,5 +7,6 @@
     "pi-setup-acquire-parts.md",
     "pi-setup-format-card-and-copy-noobs.md",
     "pi-setup-install-os.md",
-    "pi-setup-network.md"
+    "pi-setup-network.md",
+    "pi-setup-raspi-config.md"
 ]
