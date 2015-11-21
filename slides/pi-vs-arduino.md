@@ -1,7 +1,15 @@
-##  Pi vs. Arduino
+<h2>Pi vs Arduino</h2>
 
-This is a new Markdown slide
+*Pi*: A small personal computer  
+*Arduino*: An electronics prototyping platform
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+- Pi
+    - SoC (BCM2836), RAM (512 Mb), USB ports, HDMI port, GPIO
+    - Linux, Windows IoT
+    - Any programming language
+- Arduino
+    - Open source hardware
+    - Many models
+    - Integrated prototyping environment
+    - Microcontroller, programmer, serial communication, simplified pinouts
