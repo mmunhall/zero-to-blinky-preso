@@ -9,5 +9,9 @@
     </div>
 </div>
 
+To start desktop from console:  
+
+    startx
+
 note:
 - Totally optional
