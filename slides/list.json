@@ -10,5 +10,6 @@
     "pi-setup-network.md",
     "pi-setup-raspi-config.md",
     "pi-setup-raspi-config-change-password.md",
-    "pi-setup-raspi-config-boot-options.md"
+    "pi-setup-raspi-config-boot-options.md",
+    "pi-setup-raspi-config-enable-camera.md"
 ]
