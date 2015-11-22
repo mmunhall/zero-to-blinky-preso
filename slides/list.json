@@ -16,5 +16,6 @@
     "pi-setup-raspi-config-finish.md",
     "pi-setup-update-raspbian.md",
     "pi-setup-install-node.md",
-    "pi-blinky-overview.md"
+    "pi-blinky-overview.md",
+    "arduino-soup-to-nuts.md"
 ]
