@@ -15,6 +15,7 @@
     "pi-setup-raspi-config-enable-camera.md",
     "pi-setup-raspi-config-advanced-options.md",
     "pi-setup-raspi-config-finish.md",
+    "pi-setup-test-camera.md",
     "pi-setup-update-raspbian.md",
     "pi-setup-install-node.md",
     "pi-blinky-overview.md",
