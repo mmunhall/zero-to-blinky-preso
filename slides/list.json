@@ -12,5 +12,6 @@
     "pi-setup-raspi-config-change-password.md",
     "pi-setup-raspi-config-boot-options.md",
     "pi-setup-raspi-config-enable-camera.md",
-    "pi-setup-raspi-config-advanced-options.md"
+    "pi-setup-raspi-config-advanced-options.md",
+    "pi-setup-raspi-config-finish.md"
 ]
