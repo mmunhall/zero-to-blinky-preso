@@ -1,10 +1,24 @@
+## Hardware
+
+#### Resistors
+
+* orange - orange - brown - gold: 330
+* brown - black - orange - gold: 1k
+* brown - black - orange - gold: 10k  
+
+#### Pins
+
+1. Pin 11: Output
+2. Pin 6: Ground
+3. Pin 1: 3.3 DC power (use to test)
+
 ## Create directory
 
     cd
     mkdir blinky
     cd blinky
 
-## Intialize project
+## Initialize project
 
     npm init
 
