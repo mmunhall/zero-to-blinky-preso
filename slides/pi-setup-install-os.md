@@ -10,7 +10,6 @@
 </div>
 
 note:
-- Attach peripherals, insert SD card, then attach power.
 - Important: select language and keyboard layout.
 - Select Raspbian
     - Other OSs through network install
